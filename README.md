@@ -2,8 +2,6 @@
 
 QueryIDExtractor is a Python script that uses the Telegram API to manage Telegram sessions and extract `query_id` from URLs.
 
-# Watch Video Tutorial
-[Click Here](https://youtu.be/JY0ER5FqHEc)
 
 ## Requirements
 
